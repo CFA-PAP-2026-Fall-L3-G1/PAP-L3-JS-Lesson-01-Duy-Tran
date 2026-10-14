@@ -1,5 +1,5 @@
 //Students, write your code on the next line
-
+console.log("Hello world!")
 
 
 //Starter code
